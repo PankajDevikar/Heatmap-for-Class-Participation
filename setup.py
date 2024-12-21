@@ -12,9 +12,9 @@ setup(
     description='A project to visualize class participation trends with a heatmap.',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    author='Minal Devikar',
-    author_email='meenal.madankar@gmail.com',
-    url='https://github.com/minalmmm/Heatmap-for-Class-Participation.git',
+    author='Pankaj Devikar',
+    author_email='pankaj.devikar@gmail.com',
+    url='https://github.com/PankajDevikar/Heatmap-for-Class-Participation.git',
     classifiers=[
         'Programming Language :: Python :: 3.12.0',
         'License :: OSI Approved :: MIT License',
